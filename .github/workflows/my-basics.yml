@@ -11,7 +11,7 @@ name: My-GitHubAction-Basics
 on:
   push:
     branches: 
-       - main
+       - main;
 
 
     
